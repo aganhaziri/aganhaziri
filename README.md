@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aganhaziri
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT PROJECTS
 - 📫 How to reach me ? Email: aganhaziri@gmail.com
 
